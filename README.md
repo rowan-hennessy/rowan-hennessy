@@ -20,7 +20,7 @@
   
     - [RISK in OCaml (OCaml)](https://github.com/rah379/RISK)
     - [PoliPredictor (Python)](https://github.com/rah379/Team_1_4300_Proj?tab=readme-ov-file)
-      - Previously hosted on server, which has since beeen shut down
+      - Previously hosted on server, which has since been shut down
 
   - Private (Academic Integrity):
     - Seagull LLM (Python):
