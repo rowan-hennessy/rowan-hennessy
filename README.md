@@ -1,10 +1,4 @@
 <h1>Rowan Hennessy's Personal Github<br/>
-  
-<h2>About Me:</h2>
-
-- <b>Currently an undergraduate student at Cornell University, pursuing a degree in Computer Science and Mathematics (expected graduation May, 2025)</b>
-- <b>Interested in fields applying mathematical and quantitative methods to dynamic problems, particularly in the field of finance</b>
-- <b>Enjoys reading and wilderness tripping</b>
 
 <h2>Ongoing Projects:</h2>
 
@@ -36,7 +30,19 @@
       - Simulated cache performance in C, imitating behavior of different cache designs
       - Tested single-core, direct-mapped, set-associative, and multi-core simulators to compare performance
 
+<h2>Relevant Experience</h2>
+
+- Teaching Assistant
+  - CS 4300: Language and Information (Jan. 2025 - Pres.)
+  - CS 3110: Functional Programming and Data Structures (Jan. 2024 - Dec. 2024)
+- Consultant
+  - CS 3110: Functional Programming and Data Structures (Aug. 2023 - Dec. 2023)
+  - CS 2110: Object-Oriented Programming and Data Structures (Jan. 2023 - May 2023)
+
+ <h2>Education</h2>
  
+   - Cornell University, College of Arts and Sciences - Ithaca, New York
+     - Bachelor of Arts, Computer Science (August 2021 - May 2025)
 
 <h2> Connect with me:</h2>
 
