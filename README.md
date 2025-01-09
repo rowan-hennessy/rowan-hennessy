@@ -22,7 +22,7 @@
     - [PoliPredictor (Python)](https://github.com/rah379/Team_1_4300_Proj?tab=readme-ov-file)
       - Previously hosted on server, which has since been shut down
 
-  - Private (Academic Integrity):
+  - <b>Private</b> (Academic Integrity):
     - Seagull LLM (Python):
       - Implemented transformer language model "Seagull"
       - Used tokenization, padding, MHA, and feed-forward NN to optimize "humor" in output
