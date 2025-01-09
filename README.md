@@ -29,7 +29,9 @@
       - Previously hosted on server, which has since beeen shut down
 
   - Private (Academic Integrity):
-  
+    - Seagull LLM (Python):
+      - Implemented transformer language model "Seagull"
+      - Used tokenization, padding, MHA, and feed-forward NN to optimize "humor" in output
     - Build-A-Cache (C):
       - Simulated cache performance in C, imitating behavior of different cache designs
       - Tested single-core, direct-mapped, set-associative, and multi-core simulators to compare performance
