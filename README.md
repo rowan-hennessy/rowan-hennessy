@@ -6,15 +6,15 @@
 
 - <b>Data Analysis and Algorithms</b>
 
-  - [Analysis of the NYT Spelling Bee (Python)](https://rah379.github.io/spelling_bee.html)
   - [Implementing Algorithms and Numerical Methods from the Little Green Book (Python)](https://rah379.github.io/lgb.html)
 
 <h2>Completed Projects:</h2>
 
 - <b>Personal:</b>
-
+  - [Analysis of the NYT Spelling Bee (Python)](https://rah379.github.io/spelling_bee.html)
   - [Complex Analysis in Quantum Computing and Mechanics](https://rah379.github.io/assets/pdf/Math_4220_Project.pdf)
   - [Analyzing Social Connections as a Laplacian Matrix]()
+  
 
 - <b>Academic:</b>
 
