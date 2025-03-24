@@ -48,6 +48,6 @@
    - Cornell University, College of Arts and Sciences - Ithaca, New York
      - Bachelor of Arts, Computer Science (August 2021 - May 2025)
 ---
-# [LinkedIn](linkedin) | [Resume](https://rah379.github.io/assets/resume.pdf)
+# [LinkedIn](linkedin) | [Resume](https://rah379.github.io/assets/pdf/resume.pdf)
 
 [linkedin]: https://www.linkedin.com/in/rowan-hennessy-27a005226/
