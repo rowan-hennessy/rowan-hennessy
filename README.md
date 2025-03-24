@@ -45,7 +45,6 @@
 
   - Columbia University, School of Engineering and Applied Sciences - New York, New York
     - Master of Science, Operations Research (Incoming August 2025) 
- 
    - Cornell University, College of Arts and Sciences - Ithaca, New York
      - Bachelor of Arts, Computer Science (August 2021 - May 2025)
 ---
