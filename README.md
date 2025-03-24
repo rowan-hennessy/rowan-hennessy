@@ -1,19 +1,19 @@
 <h1>Rowan Hennessy's Personal Github<br/>
 
-## See my [GitHub Pages](https://rah379.github.io) for more information
+## See my [Personal Portfolio](https://rah379.github.io) for more information
 
 <h2>Ongoing Projects:</h2>
 
-- <b>Data Analysis and Algorithms</b>
+- <b>Stochastic Calculus and Optimized Probabilistic Modeling in Finance</b>
+- <b>Analaysis and Implementation of High-Dimensional Randomized Algorithms</b>
+  - Final Project for Cornell's [CS 5850: Probability, Vectors, and Matrices in CS](https://cs.cornell.edu/courses/cs4850/2025sp)
 
-  - [Implementing Algorithms and Numerical Methods from the Little Green Book (Python)](https://rah379.github.io/lgb.html)
-
-<h2>Completed Projects:</h2>
+<h2>Previous Projects:</h2>
 
 - <b>Personal:</b>
   - [Analysis of the NYT Spelling Bee (Python)](https://rah379.github.io/spelling_bee.html)
   - [Complex Analysis in Quantum Computing and Mechanics](https://rah379.github.io/assets/pdf/Math_4220_Project.pdf)
-  - [Analyzing Social Connections as a Laplacian Matrix]()
+  - [Analyzing Social Connections as a Laplacian Matrix](https://rah379.github.io/assets/pdf/Laplacian.pdf)
   
 
 - <b>Academic:</b>
@@ -24,7 +24,7 @@
     - [PoliPredictor (Python)](https://rah379.github.io/polipredictor.html)
       - Previously hosted on server, which has since been shut down
 
-  - <b>Private</b> (Academic Integrity):
+  - <b>Private:</b> 
     - [Seagull](https://rah379.github.io/seagull.html)
     - [Build-A-Cache](https://rah379.github.io/buildacache.html)
 
@@ -39,6 +39,8 @@
   - CS 3110: Functional Programming and Data Structures (Aug. 2023 - Dec. 2023)
   - CS 2110: Object-Oriented Programming and Data Structures (Jan. 2023 - May 2023)
 
+- Trail Staff, YMCA Camp Widjiwagan (Summers 2022, 2023, 2024)
+
  <h2>Education</h2>
 
   - Columbia University, School of Engineering and Applied Sciences - New York, New York
@@ -46,9 +48,7 @@
  
    - Cornell University, College of Arts and Sciences - Ithaca, New York
      - Bachelor of Arts, Computer Science (August 2021 - May 2025)
-
-<h2> Connect with me:</h2>
-
-[<img align="left" alt="RowanHennessy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
+# [LinkedIn](linkedin) | [Resume](https://rah379.github.io/assets/resume.pdf)
 
 [linkedin]: https://www.linkedin.com/in/rowan-hennessy-27a005226/
