@@ -30,6 +30,8 @@
 
 <h2>Relevant Experience</h2>
 
+- Software Engineering Intern, Finz (Feb. 2025 - Pres.)
+
 - Teaching Assistant
   - CS 4300: Language and Information (Jan. 2025 - Pres.)
   - CS 3110: Functional Programming and Data Structures (Jan. 2024 - Dec. 2024)
@@ -38,6 +40,9 @@
   - CS 2110: Object-Oriented Programming and Data Structures (Jan. 2023 - May 2023)
 
  <h2>Education</h2>
+
+  - Columbia University, School of Engineering and Applied Sciences - New York, New York
+    - Master of Science, Operations Research (Incoming August 2025) 
  
    - Cornell University, College of Arts and Sciences - Ithaca, New York
      - Bachelor of Arts, Computer Science (August 2021 - May 2025)
