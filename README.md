@@ -1,6 +1,6 @@
 <h1>Rowan Hennessy's Personal Github<br/>
 
-## See my [Personal Portfolio](https://rah379.github.io) for more information
+## See my [Personal Portfolio](https://rowan-hennessy.github.io) for more information
 
 <h2>Ongoing Projects:</h2>
 
@@ -11,22 +11,22 @@
 <h2>Previous Projects:</h2>
 
 - <b>Personal:</b>
-  - [Analysis of the NYT Spelling Bee (Python)](https://rah379.github.io/spelling_bee.html)
-  - [Complex Analysis in Quantum Computing and Mechanics](https://rah379.github.io/assets/pdf/Math_4220_Project.pdf)
-  - [Analyzing Social Connections as a Laplacian Matrix](https://rah379.github.io/assets/pdf/Laplacian.pdf)
+  - [Analysis of the NYT Spelling Bee (Python)](https://rowan-hennessy.github.io/spelling_bee.html)
+  - [Complex Analysis in Quantum Computing and Mechanics](https://rowan-hennessy.github.io/assets/pdf/Math_4220_Project.pdf)
+  - [Analyzing Social Connections as a Laplacian Matrix](https://rowan-hennessy.github.io/assets/pdf/Laplacian.pdf)
   
 
 - <b>Academic:</b>
 
   - <b>Public:</b>
   
-    - [RISK in OCaml (OCaml)](https://rah379.github.io/risk.html)
-    - [PoliPredictor (Python)](https://rah379.github.io/polipredictor.html)
+    - [RISK in OCaml (OCaml)](https://rowan-hennessy.github.io/risk.html)
+    - [PoliPredictor (Python)](https://rowan-hennessy.github.io/polipredictor.html)
       - Previously hosted on server, which has since been shut down
 
   - <b>Private:</b> 
-    - [Seagull](https://rah379.github.io/seagull.html)
-    - [Build-A-Cache](https://rah379.github.io/buildacache.html)
+    - [Seagull](https://rowan-hennessy.github.io/seagull.html)
+    - [Build-A-Cache](https://rowan-hennessy.github.io/buildacache.html)
 
 <h2>Relevant Experience</h2>
 
@@ -48,6 +48,6 @@
    - Cornell University, College of Arts and Sciences - Ithaca, New York
      - Bachelor of Arts, Computer Science (August 2021 - May 2025)
 ---
-# [LinkedIn](linkedin) | [Resume](https://rah379.github.io/assets/pdf/resume.pdf)
+# [LinkedIn](linkedin) | [Resume](https://rowan-hennessy.github.io/assets/pdf/resume.pdf)
 
 [linkedin]: https://www.linkedin.com/in/rowan-hennessy-27a005226/
