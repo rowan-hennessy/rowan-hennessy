@@ -50,4 +50,4 @@
 ---
 # [LinkedIn](linkedin) | [Resume](https://rowan-hennessy.github.io/assets/pdf/resume.pdf)
 
-[linkedin]: https://www.linkedin.com/in/rowan-hennessy-27a005226/
+[linkedin]: https://www.linkedin.com/in/rowan-hennessy
