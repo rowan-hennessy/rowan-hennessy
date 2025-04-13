@@ -12,7 +12,7 @@
 
 - <b>Personal:</b>
   - [Analysis of the NYT Spelling Bee (Python)](https://rowan-hennessy.github.io/pages/spelling_bee.html)
-  - [Complex Analysis in Quantum Computing and Mechanics](https://rowan-hennessy.github.io/assets/Math_4220_Project.pdf)
+  - [Complex Analysis in Quantum Computing and Mechanics](https://rowan-hennessy.github.io/assets/Complex_Analysis.pdf)
   - [Analyzing Social Connections as a Laplacian Matrix](https://rowan-hennessy.github.io/assets/Laplacian.pdf)
   
 
