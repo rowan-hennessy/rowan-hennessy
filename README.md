@@ -11,26 +11,25 @@
 <h2>Previous Projects:</h2>
 
 - <b>Personal:</b>
-  - [Analysis of the NYT Spelling Bee (Python)](https://rowan-hennessy.github.io/spelling_bee.html)
-  - [Complex Analysis in Quantum Computing and Mechanics](https://rowan-hennessy.github.io/assets/pdf/Math_4220_Project.pdf)
-  - [Analyzing Social Connections as a Laplacian Matrix](https://rowan-hennessy.github.io/assets/pdf/Laplacian.pdf)
+  - [Analysis of the NYT Spelling Bee (Python)](https://rowan-hennessy.github.io/pages/spelling_bee.html)
+  - [Complex Analysis in Quantum Computing and Mechanics](https://rowan-hennessy.github.io/assets/Math_4220_Project.pdf)
+  - [Analyzing Social Connections as a Laplacian Matrix](https://rowan-hennessy.github.io/assets/Laplacian.pdf)
   
 
 - <b>Academic:</b>
 
   - <b>Public:</b>
   
-    - [RISK in OCaml (OCaml)](https://rowan-hennessy.github.io/risk.html)
-    - [PoliPredictor (Python)](https://rowan-hennessy.github.io/polipredictor.html)
-      - Previously hosted on server, which has since been shut down
+    - [RISK in OCaml (OCaml)](https://rowan-hennessy.github.io/pages/risk.html)
+    - [PoliPredictor (Python)](https://rowan-hennessy.github.io/pages/polipredictor.html)
 
   - <b>Private:</b> 
-    - [Seagull](https://rowan-hennessy.github.io/seagull.html)
-    - [Build-A-Cache](https://rowan-hennessy.github.io/buildacache.html)
+    - [Seagull](https://rowan-hennessy.github.io/pages/seagull.html)
+    - [Build-A-Cache](https://rowan-hennessy.github.io/pages/buildacache.html)
 
 <h2>Relevant Experience</h2>
 
-- Software Engineering Intern, Finz (Feb. 2025 - Pres.)
+- Financial Technologies Intern, Finz (Feb. 2025 - Pres.)
 
 - Teaching Assistant
   - CS 4300: Language and Information (Jan. 2025 - Pres.)
@@ -48,4 +47,4 @@
    - Cornell University, College of Arts and Sciences - Ithaca, New York
      - Bachelor of Arts, Computer Science (August 2021 - May 2025)
 ---
-# [LinkedIn](https://www.linkedin.com/in/rowan-hennessy) | [Resume](https://rowan-hennessy.github.io/assets/pdf/resume.pdf)
+# [LinkedIn](https://www.linkedin.com/in/rowan-hennessy) | [Resume](https://rowan-hennessy.github.io/assets/resume.pdf)
