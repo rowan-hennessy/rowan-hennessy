@@ -8,6 +8,11 @@ Prior to this, I graduated in May, 2025 from Cornell University with a degree in
 ## Coursework
 
 Graduate: 
+- Dynamic Pricing and Revenue Management
+- Stochastic Models
+- Simulation
+- Machine Learning in Practice
+- Computation Methods in Finance
 - Machine Learning for Operations Research and Financial Engineering
 - Probability Theory and Statistics
 - Financial Engineering
