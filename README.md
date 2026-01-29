@@ -11,7 +11,6 @@ Graduate:
 - Dynamic Pricing and Revenue Management
 - Stochastic Models
 - Simulation
-- Machine Learning in Practice
 - Computation Methods in Finance
 - Machine Learning for Operations Research and Financial Engineering
 - Probability Theory and Statistics
