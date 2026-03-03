@@ -1,13 +1,14 @@
 # Rowan Hennessy's Personal GitHub
 
 ## About
-I'm currently a first-year Master's student at Columbia University, studying Operations Research with a concentration in Stochastic Modeling. 
+I'm currently a Master's student at Columbia University, studying Operations Research with a concentration in Stochastic Modeling. 
 
 Prior to this, I graduated in May, 2025 from Cornell University with a degree in Computer Science and Mathematics
 
 ## Coursework
 
 Graduate: 
+- Algorithmic Trading
 - Dynamic Pricing and Revenue Management
 - Stochastic Models
 - Simulation
